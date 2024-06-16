@@ -1,0 +1,49 @@
+/* _content/CarHouse/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-fznz5qsgfd] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-fznz5qsgfd] {
+  color: #0077cc;
+}
+
+.btn-primary[b-fznz5qsgfd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-fznz5qsgfd], .nav-pills .show > .nav-link[b-fznz5qsgfd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-fznz5qsgfd] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-fznz5qsgfd] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-fznz5qsgfd] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-fznz5qsgfd] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-fznz5qsgfd] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
